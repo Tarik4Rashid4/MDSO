@@ -12,8 +12,6 @@ cite as:
 A.S. Shamsaldin, T.A. Rashid, R.A. Al-Rashid Agha, N.K. Al-Salihi, M. Mohammadi (2019). Donkey and Smuggler Optimization Algorithm: A Collaborative Working Approach to Path Finding, Journal of Computational Design and Engineering. 
 doi: https://doi.org/10.1016/j.jcde.2019.04.004
 
-
-Nazir M. Hasan, Tarik A. Rashid, Abeer Alsadoon, Ahmed S. Qosaeri, Laith Abualigah , Zaher Mundher Yaseen (2022).An Enhanced Donkey and Smuggler Optimization Algorithm for Choosing the Precise Job Applicant. 
-DOI: https://doi.org/10.21203/rs.3.rs-1674600/v2 
+Hasan, N.M., Rashid, T.A., Alsadoon, A. et al. An enhanced donkey and smuggler optimization algorithm for choosing the precise job applicant. Iran J Comput Sci (2023). https://doi.org/10.1007/s42044-023-00135-y
 
 */
